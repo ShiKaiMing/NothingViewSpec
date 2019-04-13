@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ShiKaiMing/SwipeViewModule'
+  s.homepage         = 'http://218.106.157.184:3001/shikaiming/SwipeViewModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ShiKaiMing' => '1054776982@qq.com' }
-  s.source           = { :git => 'https://github.com/ShiKaiMing/SwipeViewModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'http://218.106.157.184:3001/shikaiming/SwipeViewModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
